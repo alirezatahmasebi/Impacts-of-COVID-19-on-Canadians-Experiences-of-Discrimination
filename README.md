@@ -1,5 +1,6 @@
 # Impacts of COVID-19 on Canadians' Experiences of Discrimination
 
+## Objectives
 * Identified data questions about a real dataset that can be answered with data visualization
 
 * Sketched design variations using different visual marks and visual variables
