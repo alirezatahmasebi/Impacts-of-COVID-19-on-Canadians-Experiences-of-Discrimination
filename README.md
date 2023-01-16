@@ -1,5 +1,8 @@
 # Impacts of COVID-19 on Canadians' Experiences of Discrimination
 
+## Viewing the Interactive Visualization
+In order to view the interactive visualization, select "Visualization" from the right sidebar under "Releases". Then, download "Interactive.Visualization.html" by selecting it under "Assets".
+
 ## Objectives
 * Identified data questions about a real dataset that can be answered with data visualization
 
